@@ -20,5 +20,5 @@ document.getElementById("result").innerHTML="If you deposit <mark>"+principal+"<
 function updateRate() 
 {
     var rateval = document.getElementById("rate").value;
-    document.getElementById("rate_val").innerText=rateval;
+    document.getElementById("rate_val").innerText=rateval+'%';
 }    
