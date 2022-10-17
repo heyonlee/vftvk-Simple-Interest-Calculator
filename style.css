@@ -5,6 +5,7 @@ footer{margin-left: 10px;
 .maindiv{
     background-color: white; color:black; width: 500px;padding: 30px;
     border-radius: 25px; 
+    margin:auto;
 } 
 .inputfields{
     margin-top: 10px;
